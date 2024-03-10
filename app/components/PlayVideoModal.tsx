@@ -8,7 +8,7 @@ interface iAppProps{
     changeState: any;
     age: number;
     duration: number;
-    year: number;
+    release: number;
 }
 
 export default function PlayVideoModal({
